@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import re
+
 class MyString:
   def __init__(self, value):
     self.value = value
